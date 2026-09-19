@@ -1,6 +1,6 @@
-# Two Two Consulting — HRG Executive Dashboard
+# Two Two Consulting HRG profit dashboard
 
-An interactive executive dashboard for Horizon Retail Group, focused on promotion margin, loss-making sales, churn risk, customer value, and a testable promotion solution.
+An interactive working session for Horizon Retail Group. The dashboard focuses on promotion margin, loss-making sales, churn risk, and customer value.
 
 ## Live dashboard
 
@@ -8,8 +8,10 @@ GitHub Pages publishes this repository as a self-contained static site.
 
 ## Project structure
 
-- `index.html` — complete dashboard, styles, data, and JavaScript
-- `.github/workflows/pages.yml` — GitHub Pages deployment
-- `.nojekyll` — serves the static files without Jekyll processing
+- `index.html` contains the dashboard, data, styles, and JavaScript.
+- `presentation/HRG_Consultant_Pitch.pptx` contains the consultant-pitch deck.
+- `presentation/presentation-script.md` contains the slide and dashboard talk track.
+- `.github/workflows/pages.yml` deploys the dashboard to GitHub Pages.
+- `.nojekyll` serves the files without Jekyll processing.
 
 No build step, package installation, database, or external runtime is required.
