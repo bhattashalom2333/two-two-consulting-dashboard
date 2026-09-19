@@ -2,6 +2,8 @@
 
 An interactive working session for Horizon Retail Group. The dashboard focuses on promotion margin, loss-making sales, churn risk, and customer value.
 
+The guided demo moves through all four problems. The client can also test promotion assumptions, select an action plan, record board approvals, and download the agreed plan as a CSV file.
+
 ## Live dashboard
 
 GitHub Pages publishes this repository as a self-contained static site.
