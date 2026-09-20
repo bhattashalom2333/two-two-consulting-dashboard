@@ -6,11 +6,8 @@ Approximate running time: 10 minutes
 
 Open the dashboard at the **Dashboard** section before you begin. Keep the PowerPoint ready in a second window.
 
-The deck and dashboard use two different value cases. The deck presents $12.0 million as the destination, while the dashboard uses $8.6 million as its current planning case. Present $12.0 million as the ambition. Present $8.6 million as the working hypothesis. Finance has booked $0 because the pilots have not verified either number.
 
-The safest language is:
-
-> "Our current planning case is $8.6 million. The $12 million figure is the destination if the first pilots prove that HRG can recover more of the estimated loss pool."
+"Our current planning case is $8.6 million. The $12 million figure is the destination if the first pilots prove that HRG can recover more of the estimated loss pool. And treaded as a best case scenario"
 
 ## 0:00 to 0:30 | Opening dashboard demo
 
